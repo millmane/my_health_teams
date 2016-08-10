@@ -12,4 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= foundation.min.js
+//= bundle.js
 //= require_tree .

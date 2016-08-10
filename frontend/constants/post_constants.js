@@ -1,0 +1,8 @@
+"use strict";
+
+const PostConstants = {
+  POSTS_RECEIVED: "POSTS_RECEIVED",
+  POST_RECEIVED: "POST_RECEIVED"
+};
+
+module.exports = PostConstants;
